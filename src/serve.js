@@ -37,7 +37,6 @@ function createServe(filePath, port) {
     });
   }
   readSvg(svgDirPath);
-  console.log(svgList);
   app.get("/", function (req, res) {
     res.render("svg", {
       svgList: svgList,
