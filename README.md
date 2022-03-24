@@ -8,7 +8,7 @@ npm install view-svg -D
 
 ### Usage
 
-在 package.json 的 script 添加 view
+在 package.json 的 script 添加 view-svg
 
 ```
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "view-svg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -12,10 +12,17 @@
   "keywords": [],
   "author": "txw",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txw2018/view-svg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/txw2018/view-svg/issues"
+  },
+  "homepage": "https://github.com/txw2018/view-svg#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.3",
-    "minimist": "^1.2.6",
-    "portfinder": "^1.0.28"
+    "minimist": "^1.2.6"
   }
 }
