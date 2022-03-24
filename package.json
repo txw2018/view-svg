@@ -1,0 +1,21 @@
+{
+  "name": "view-svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "view-svg": "./bin/view-svg.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "txw",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "minimist": "^1.2.6",
+    "portfinder": "^1.0.28"
+  }
+}
