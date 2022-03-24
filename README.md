@@ -4,7 +4,9 @@
 
 ### Getting Started
 
+```
 npm install view-svg -D
+```
 
 ### Usage
 
