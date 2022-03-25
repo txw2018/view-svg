@@ -39,3 +39,5 @@ npm install view-svg -D
 ```
 npm run view-svg
 ```
+
+打开 http://localhost:4000 预览
