@@ -1,7 +1,7 @@
 {
   "name": "view-svg",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "一次性预览项目中的svg文件",
   "main": "index.js",
   "bin": {
     "view-svg": "./bin/view-svg.js"
